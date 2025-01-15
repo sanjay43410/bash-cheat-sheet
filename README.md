@@ -1,3 +1,3 @@
 # bash-cheat-sheet
-
-#Bash History Commands
+A cheat sheet for bash commands.
+**# Bash History Commands**
